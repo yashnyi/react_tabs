@@ -1,0 +1,1 @@
+{"version":3,"sources":["Tabs.scss","App.scss"],"names":[],"mappings":"AAAA,MACE,eAAgB,CACjB,MAGC,cAAe,CADjB,YAII,YAAa,CCRjB,KACE,YAAa","file":"main.13d86c01.chunk.css","sourcesContent":[".tabs {\n  max-width: 800px;\n}\n\n.item {\n  cursor: pointer;\n\n  &:focus {\n    outline: none;\n  }\n}\n",".App {\n  padding: 25px;\n}\n"]}
